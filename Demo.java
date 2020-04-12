@@ -3,7 +3,7 @@
 public class Demo{
 	public static void main(String[] args) throws Throwable {
 			// Procedureel     OOP    // Class Object
-		System.out.println("hoi");
+		System.out.println("Doei");
 		int getal = 5;
 		String naam = "Arjan";
 		System.out.println(naam);
